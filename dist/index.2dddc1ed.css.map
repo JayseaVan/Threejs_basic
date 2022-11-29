@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA;;;;AAIA","sources":["src/assets/css/style.scss"],"sourcesContent":["* {\r\n    box-sizing: border-box;\r\n    outline: none;\r\n}\r\n\r\nhtml {\r\n    background-color: skyblue;\r\n}\r\n\r\nbody {\r\n    margin: 0;\r\n}"],"names":[],"version":3,"file":"index.2dddc1ed.css.map","sourceRoot":"/__parcel_source_root/"}
